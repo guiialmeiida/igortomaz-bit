@@ -22,4 +22,4 @@ Outside of development, Igor loves to play RPG, spend time with his friends and 
 
 ## 🎯 How can you find me?
 
-<a target="_blank" href="https://www.linkedin.com/in/igor-gon%C3%A7alves-03b981189"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="25" /></a>
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-gon%C3%A7alves-03b981189)
